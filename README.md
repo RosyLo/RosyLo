@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi this is Rosy 🌹
 
-<!--
-**RosyLo/RosyLo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nice to meet you, I am Rosy, a proactive Front-End Developer who believe the power of technology will make a world a better place.
+Am excited about cooperationg with talents around the world to contribute to the community! 🔥 
+<br/>
+<p>
+<img src ="lavie.gif"/>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👀 Why not take a look at my latest project  
+LA VIE - An intuitive platform for people to share lives and connect to like-minded friends.
+<br>
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RosyLo&repo=LA_VIE)](https://github.com/KevinZTW/Taggy.git)</br>
