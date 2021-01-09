@@ -8,9 +8,10 @@ Am excited about cooperationg with talents around the world to contribute to the
 </p>
 
 
-👀 Why not take a look at my latest project  
+#### 👀 Why not take a look at my latest project, and share your feed back with me!
 LA VIE - An intuitive platform for people to share lives and connect to like-minded friends.
 <br>
 
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RosyLo&repo=LA_VIE)](https://github.com/KevinZTW/Taggy.git)</br>
+
+Contact Me: rosyluo841107@gmail.com
