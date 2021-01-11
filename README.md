@@ -12,6 +12,6 @@ Am excited about cooperationg with talents around the world to contribute to the
 LA VIE - An intuitive platform for people to share lives and connect to like-minded friends.
 <br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RosyLo&repo=LA_VIE)](https://github.com/RosyLo)</br>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RosyLo&repo=LA_VIE)](https://github.com/RosyLo/LA_VIE)</br>
 
 Contact Me: rosyluo841107@gmail.com
